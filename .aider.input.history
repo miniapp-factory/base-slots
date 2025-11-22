@@ -1,0 +1,44 @@
+
+# 2025-11-22 16:53:42.744754
++Code the following app
++```
++A quiz that lets someone find out how similar they are to Elon Musk on a fun “0–100% Elon” scale by answering 5 multiple choice questions, and then allows them to share their result.
++
++Create 4 result tiers based on their score:
++
++0–25% Elon – “Casual Dreamer”
++
++26–50% Elon – “Weekend Innovator”
++
++51–75% Elon – “Relentless Builder”
++
++76–100% Elon – “Full-Throttle Visionary”
++
++Generate a unique cute cartoon vector illustration of Elon Musk for each result tier and display the corresponding image and title on the result page for that user. Allow the user to retake the quiz as many times as they want. Write the questions and answers yourself. Randomize the order of the answers for each question.
++
++Place the quiz on the home page.
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-22 16:53:42.745357
++Code the following app
++```
++A quiz that lets someone find out how similar they are to Elon Musk on a fun “0–100% Elon” scale by answering 5 multiple choice questions, and then allows them to share their result.
++
++Create 4 result tiers based on their score:
++
++0–25% Elon – “Casual Dreamer”
++
++26–50% Elon – “Weekend Innovator”
++
++51–75% Elon – “Relentless Builder”
++
++76–100% Elon – “Full-Throttle Visionary”
++
++Generate a unique cute cartoon vector illustration of Elon Musk for each result tier and display the corresponding image and title on the result page for that user. Allow the user to retake the quiz as many times as they want. Write the questions and answers yourself. Randomize the order of the answers for each question.
++
++Place the quiz on the home page.
++```
++
++Generate an app logo and update the app metadata title and description.
